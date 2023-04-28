@@ -2,8 +2,13 @@
 This is a Matrix theme for Google Chrome by me
 To install:
 1-Go on Settings, Appearance, and delete the custom pages you have leaving only new tab
+
 2-Download:https://chrome.google.com/webstore/detail/motiontabs-best-live-wall/fenjmhlfpbhnbgbdehnnomhnhafedbmp
+
 3-Go on Settings (of the extension) on left-down and apply Matrix.mp4 and tick it, then remove other videos that are there
+
 Go on chrome://flags/#enable-force-dark and enable it
+
 Extract Matrix Theme By Skorpion96.zip
+
 4-Open chrome://extensions/ enable developer mode and click on "Load Unpackaged extension" and go where you extracted the theme and click Select
