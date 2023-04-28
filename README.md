@@ -1,5 +1,5 @@
 # Matrix-Theme-for-Google-Chrome
-This is a Matrix theme for Google Chrome by me
+This is a really simple Matrix theme for Google Chrome by me
 
 To install:
 
