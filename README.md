@@ -1,4 +1,4 @@
-# Matrix-Theme-for-Google-Chromeome
+# Matrix-Theme-for-Google-Chrome
 This is a Matrix theme for Google Chrome by me
 To install:
 1-Go on Settings, Appearance, and delete the custom pages you have leaving only new tab
